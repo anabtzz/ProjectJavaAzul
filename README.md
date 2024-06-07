@@ -1,2 +1,2 @@
 ## Atividade em Java
-<h3>**Ana e Yasmim**</h3>
+<h3>Ana e Yasmim</h3>
