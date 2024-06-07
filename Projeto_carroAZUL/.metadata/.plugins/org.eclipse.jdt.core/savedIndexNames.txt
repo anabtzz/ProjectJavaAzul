@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\3ds\Desktop\ana e yas\Projeto_carroAZUL\.metadata\.plugins\org.eclipse.jdt.core
+3540019519.index
+828937929.index
+1865797976.index

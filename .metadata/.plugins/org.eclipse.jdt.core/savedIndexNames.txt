@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\3ds\Desktop\ana e yas\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4056106146.index
+3595377895.index
+1535326080.index
